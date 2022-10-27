@@ -1,0 +1,39 @@
+    Home =>
+        * Total Money => cash 
+        * Total Members
+        * Total Expenses
+         
+    Members =>
+        * All Members => Each Member Have A Option To Add Money => SHow Given Moneys  (Modal) => Total Money Given
+        ->Photo \/
+        ->Name\/
+        ->Phone\/
+        ->Email\/
+        ->address
+        ->Action =>Delete , show Given Moneys , add money
+
+    Add Member =>
+        * Simply Add Member
+          =>Name *, Phone Number * , Email Address , Address , Photo , Joining Date , Time
+
+    Money =>
+        * Simply Add Money -> according the user
+        * Upgrade the total , and per user
+    
+    Expenses =>
+        * Simply Add Expenses , => Description ->user(Who Expenses) -> show Expenses (Modal)
+
+
+
+
+_________________________________________________________________________Commons_______________________________________________________________
+
+NavBar  Footer
+
+
+
+
+Add Member ========================================
+getting document objects
+listen onsubmit event (Make it prevent Default )
+verify name , Phone , Email , Birth Of Date , Adress 
